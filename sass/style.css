@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&display=swap");
+
+
+:root{
+    --color-a : #941C2F;
+    --color-b : #03191E;
+
+    --background-color: #FCEEF0;
+    --background-color-b: #F0A8B3;
+}
+
+body{
+    font-family: 'Fredoka', sans-serif;
+    background-color: var(--background-color);
+}
+
